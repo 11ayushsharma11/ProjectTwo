@@ -12,8 +12,6 @@ public class GitTest {
 		
 		System.out.println("Adding another another line in the SOP!!");
 		
-		System.out.println("Adding aaoijdkejaskdekj line in the SOP!!");
-		
 	}
 
 }
