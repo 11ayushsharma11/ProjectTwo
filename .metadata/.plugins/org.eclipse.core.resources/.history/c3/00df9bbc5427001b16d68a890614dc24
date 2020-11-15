@@ -10,8 +10,6 @@ public class GitTest {
 		
 		System.out.println("Adding another line in the SOP!!");
 		
-		System.out.println("Printing Printing and Printing!!");
-		
 	}
 
 }
