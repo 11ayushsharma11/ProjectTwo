@@ -6,8 +6,6 @@ public class GitTest {
 		
 		System.out.println("Testing the git and github");
 		
-		System.out.println("Adding line on in SOP");
-		
 	}
 
 }
